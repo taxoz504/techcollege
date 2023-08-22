@@ -19,9 +19,6 @@ testing
 ⣦⡑⠛⣟⢿⡿⣿⣷⣝⢧⡀⠀⠀⣶⣸⡇⣿⢸⣧⠀⠀⠀⠀⢸⡿⡆
 ⣿⣿⣷⣮⣭⣍⡛⠻⢿⣷⠿⣶⣶⣬⣬⣁⣉⣀⣀⣁⡤⢴⣺⣾⣽⡇
 
-<<<<<<< Updated upstream
 testing
 vi elsker kage
-=======
 test...
->>>>>>> Stashed changes
